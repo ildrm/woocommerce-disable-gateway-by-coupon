@@ -192,15 +192,6 @@ See the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 📸 Screenshots (suggestion)
-
-| Screenshot                               | Description                                        |
-| ---------------------------------------- | -------------------------------------------------- |
-| ![screenshot-1](assets/screenshot-1.png) | Coupon edit screen with payment gateway checkboxes |
-| ![screenshot-2](assets/screenshot-2.png) | Checkout refresh after coupon applied              |
-
----
-
 ## 💡 Credits
 
 Developed by **[Shahin Ilderemi](https://github.com/ildrm)**
@@ -258,10 +249,6 @@ WooCommerce shows a notice: “No payment methods are available.”
 
 = Is it compatible with custom gateways? =
 Yes, as long as they properly register themselves via WooCommerce.
-
-== Screenshots ==
-1. Coupon edit screen with disabled gateways.
-2. Checkout refresh after applying coupon.
 
 == Changelog ==
 = 1.0.0 =
