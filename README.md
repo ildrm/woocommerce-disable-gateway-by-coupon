@@ -35,9 +35,9 @@ When a customer applies such a coupon during checkout:
 
 1. Download or clone the repository:
 
-   ```bash
+  ```bash
    git clone https://github.com/ildrm/woocommerce-disable-gateway-by-coupon.git
-  ````
+  ```
 
 2. Upload the folder to your site’s:
 
