@@ -218,13 +218,9 @@ Special thanks to the WooCommerce and WordPress open-source communities.
 
 ---
 
-````
-
----
-
 ## 📄 `readme.txt` (WordPress.org style)
 
-```text
+```
 === WooCommerce Disable Gateway by Coupon ===
 Contributors: ildrm
 Tags: woocommerce, coupon, payment gateway, disable gateway, checkout
